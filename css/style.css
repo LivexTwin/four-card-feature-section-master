@@ -59,8 +59,8 @@ h6 {
 /* variables */
 
 :root {
-  --color-primary-200: hsl(180, 62%, 55%);
-  --color-primary-100: hsl(0, 78%, 62%);
+  --color-primary-100: hsl(180, 62%, 55%);
+  --color-primary-200: hsl(0, 78%, 62%);
   --color-primary-300: hsl(34, 97%, 64%);
   --color-primary-400: hsl(212, 86%, 64%);
   --color-neutral-dark: hsl(234, 12%, 34%);
